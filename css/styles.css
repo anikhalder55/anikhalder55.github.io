@@ -1,0 +1,43 @@
+
+
+nav{
+  padding: 1% 15%;
+}
+
+.navbar-brand{
+  font-size: 1.15rem;
+}
+.navbar-collapse{
+  text-align: center;
+}
+.navbar-toggler{
+  border: 0;
+  padding:0;
+}
+
+#about_me{
+  padding: 1% 15%;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #000080;
+}
+
+#contact_me{
+  padding: 1% 15%;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
